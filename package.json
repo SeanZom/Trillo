@@ -14,6 +14,7 @@
   },
   "author": "Jonas",
   "license": "ISC",
+  "homepage": "https://seanzom.github.io/Trillo/",
   "devDependencies": {
     "autoprefixer": "^7.1.4",
     "concat": "^1.0.3",
